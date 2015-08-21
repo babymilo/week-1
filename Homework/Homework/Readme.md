@@ -7,7 +7,7 @@
 * Why we need "if-else" in function process?
 
 Answer:
-
+use to make for out of function of the loop
 
 # Resources
 * https://en.wikipedia.org/wiki/Recursion_(computer_science)
