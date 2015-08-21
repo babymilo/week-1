@@ -13,20 +13,20 @@
 ## Questions
 1. How this code can sort number from smaller to larger
  
-Answer: 
+Answer: check number in [0] of array and check number in [1] of array if number in [0] > [1] swap number in [0] and [1] 
 
 2. What if two numbers equal, what will happen? 
 
-Answer: 
+Answer: no swap
 
 3. How many times at line 24 will be executed (as a function of the size of input) 
 
-Answer: 
+Answer: 27
 
 4. Why we need flag variable ? 
 
-Answer: 
+Answer: beacause we need flag to check while loop
 
 5. When we remove the flag variable, the code will run faster or slower? in which scenario? 
 
-Answer:
+Answer:faster beacause don't have while loop
